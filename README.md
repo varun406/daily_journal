@@ -1,5 +1,5 @@
 # Daily Journal
-## Using MongoDB for storing post locally
+### Using MongoDB for storing post locally
 ## Home Page
 ![image](https://user-images.githubusercontent.com/68057853/178140087-355d0d48-c600-44db-a1dd-9e073c5e226f.png)
 ## Compose Page
